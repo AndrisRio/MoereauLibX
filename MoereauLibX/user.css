@@ -1,0 +1,303 @@
+/* Home Stuff */
+.nav-ylx .Root__top-container, .main-card-card {
+background: unset !important;
+}
+.main-topBar-background {
+background-color: var(--background-base) !important;
+}
+.main-topBar-overlay, .nav-ylx .Root__main-view {
+background-color: unset !important;
+}
+.main-home-homeHeader {
+background: none !important;
+}
+.view-homeShortcutsGrid-shortcut {
+background-color: rgba(255,255,255,.025) !important;
+}
+.main-card-card {
+background-color: rgba(0,0,0,.125) !important;
+}
+.Root.encore-dark-theme.nav-ylx {
+--panel-gap: 0px !important;
+}
+.view-homeShortcutsGrid-shortcut .view-homeShortcutsGrid-imageWrapper, .main-cardImage-imageWrapper {
+background-color: unset !important;
+-webkit-box-shadow: unset !important;
+box-shadow: unset !important;
+}
+.main-cardImage-circular {
+border-radius: unset !important;
+}
+.nav-ylx .main-topBar-background {
+border-top-left-radius: unset !important;
+border-top-right-radius: unset !important;
+}
+
+/* Search Stuff */
+.nav-ylx .x-searchInput-searchInputInput {
+background-color: rgba(255,255,255,.025) !important;
+}
+.nav-ylx .x-searchInput-searchInputInput:focus {
+-webkit-box-shadow: unset !important;
+box-shadow: unset !important;
+}
+.x-categoryCard-image {
+width: 100%;
+height: 100%;
+filter: brightness(0.3);
+}
+html .x-categoryCard-image {
+-webkit-transform: unset !important;
+transform: unset !important;
+}
+.x-categoryCard-CategoryCard {
+background: transparent !important;
+}
+.x-categoryCard-CategoryCard .TypeElement-canon-type {
+font-size: 1.35rem !important;
+}
+.OadpZJiOaGfX6Qp4j6n5 {
+border-radius: 4px !important;
+}
+.ChipInnerComponent,
+.ChipInnerComponent-selected {
+border-radius: 8px !important;
+min-block-size: var(--control-size-sm,32px) !important;
+}
+
+/* Overview Stuff */
+.main-entityHeader-backgroundColor,
+.main-actionBarBackground-background {
+background: unset !important;
+}
+.artist-artistOverview-artistOverviewContent {
+background-color: transparent !important;
+}
+.under-main-view .main-entityHeader-overlay {
+--bgColor: unset !important;
+background: linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,1) 100%),var(--background-noise) !important;
+}
+.main-entityHeader-background {
+height: 100% !important;
+}
+.main-entityHeader-background.main-entityHeader-gradient {
+-webkit-transform: scale(1.05);
+transform: scale(1.05);
+}
+.mYvNDps8FDVgHSCzpeqC {
+border-radius: 12px;
+}
+.artist-artistAbout-container {
+background-color: rgba(0,0,0,.125) !important;
+}
+.nav-ylx .main-trackList-trackListHeaderStuck.main-trackList-trackListHeader {
+background: var(--background-base);
+}
+.main-entityHeader-shadow {
+-webkit-box-shadow: unset !important;
+box-shadow: unset !important;
+}
+.main-image-image {
+border-radius: 4px !important;
+}
+.uvIvZ4XqfEFs88BAPaI8 .artist-artistOnTour-item {
+-webkit-column-gap: unset !important;
+-moz-column-gap: unset !important;
+column-gap: unset !important;
+grid-template-columns: 60px auto !important;
+margin-bottom: unset !important;
+}
+
+/* Button Stuff */
+.main-topBar-historyButtons .main-topBar-button, .IAyWaeDamLJLjxuPeVKw, .I4p8r1UNjIGk9yv3H2Ms {
+background-color: rgba(255,255,255,.025) !important;
+}
+.ButtonInner-md-iconOnly {
+background-color: rgba(255,255,255,.25) !important;
+}
+.view-homeShortcutsGrid-PlayButtonContainer, .main-card-PlayButtonContainer {
+-webkit-box-shadow: unset !important;
+box-shadow: unset !important;
+}
+.main-playButton-PlayButton:focus, .main-playButton-PlayButton:hover {
+background-color: unset !important;
+}
+.Fxnb0xe6bL7I7W8V0p6C,
+.Fxnb0xe6bL7I7W8V0p6C:hover {
+background-color: transparent !important;
+}
+.main-playButton-PlayButton {
+scale: 0.8;
+}
+.Button-sm-buttonSecondary-useBrowserDefaultFocusStyle {
+border: 2px solid var(--text-base) !important;
+}
+.main-avatar-image {
+border-radius: 50% !important;
+}
+
+/* Left Sidebar Stuff */
+.Root__nav-bar, .main-yourLibraryX-entryPoints, .Ozitxbqs1vcOukDz3GDw, .p6xU6jAgF1YQ43M1zZbV {
+background-color: unset !important;
+}
+.BoxComponent-group-naked-isInteractive-hasFocus-hasLeadingOrMedia:active::after, .gpDSOimnzH4zTJmE7UR5.I2WIloMMjsBeMaIS8H3v, .Ai_McRq9wJEYK21w8nX_ {
+background-color: rgba(255,255,255,.025) !important;
+}
+.vreceNX3ABcxyddeS83B {
+-webkit-box-shadow: unset !important;
+background-color: unset !important;
+box-shadow: unset !important;
+}
+.BoxComponent-group-naked-isInteractive-hasFocus-hasLeadingOrMedia:active::after {
+inset: 0px !important;
+}
+.nav-ylx .Root__nav-bar {
+gap: 0px !important;
+}
+.main-yourLibraryX-navItems {
+padding: 8px 12px 0px !important;
+}
+.main-yourLibraryX-header {
+padding: 0px 16px 8px;
+}
+.Wrapper-md-leading {
+margin-inline-end: 20px !important;
+}
+.ojrThQm1wxR2gZ6GntJB.Ks_qLLEMUQzP7ejeQCwQ, 
+.ojrThQm1wxR2gZ6GntJB.Dtr130mQSR0j8k7bu5KS {
+min-block-size: 32px !important;
+padding: 4px 8px !important;
+}
+.ojrThQm1wxR2gZ6GntJB {
+min-block-size: 56px !important;
+padding: 8px !important;
+}
+
+/* Lyrics & Right Sidebar Stuff */
+.gpDSOimnzH4zTJmE7UR5 .hzUuLPdH48AzgQun5NYQ {
+font-family: 'Cascadia Code' !important;
+font-size: 1rem !important;
+font-weight: 500 !important;
+line-height: 2rem !important;
+padding: 16px !important;
+-webkit-mask-image: linear-gradient(180deg,transparent 0,transparent 8px,#000 8px,#000 calc(100% - 24px),transparent calc(100% - 8px),transparent) !important;
+mask-image: linear-gradient(180deg,transparent 0,transparent 4px,#000 8px,#000 calc(100% - 24px),transparent calc(100% - 8px),transparent) !important;
+overflow-y: scroll !important;
+}
+.lyrics-lyrics-background {
+background-color: rgba(255,255,255,.025) !important;
+}
+.nav-ylx .main-buddyFeed-header {
+padding: 0 !important;
+-webkit-padding-start: 0 !important;
+padding-inline-start: 0 !important;
+}
+.spotifyinternal-artistnpv .npv-background-color--gradient {
+background-color: var(--background-base) !important;
+}
+.playback-bar .TypeElement-ballad-textBase-type {
+font-size: 3em;
+}
+.npv-lyrics__gradient-background {
+background: unset !important;
+}
+.npv-background-color, .npv-main-container {
+background-color: unset !important;
+background-image: unset !important;
+}
+
+/* Now Playing Bar Stuff */
+.main-coverSlotCollapsed-container {
+display: none;
+}
+.Root__now-playing-bar {
+position: fixed !important;
+width: unset !important;
+bottom: 12px !important;
+display: grid;
+background: unset !important;
+opacity: .875;
+left: 50%;
+transform: translateX(-50%);
+}
+.main-nowPlayingBar-container {
+-webkit-box-orient: unset  !important;
+-webkit-box-direction: unset  !important;
+background-color: var(--background-highlight) !important;
+border-radius: 12px;
+border-top: unset  !important;
+display: unset  !important;
+height: unset  !important;
+min-width: unset  !important;
+user-select: unset  !important;
+}
+.main-nowPlayingBar-nowPlayingBar {
+grid-row: 2;
+-webkit-box-align: unset  !important;
+-ms-flex-align: unset  !important;
+-webkit-box-orient: unset  !important;
+-webkit-box-direction: unset  !important;
+-webkit-box-pack: unset  !important;
+-ms-flex-pack: unset  !important;
+display: flex !important;
+-ms-flex-direction: unset  !important;
+flex-direction: unset  !important;
+padding: 8px 0;
+width: unset  !important;
+align-items: center;
+-webkit-padding-end: unset  !important;
+height: unset  !important;
+padding-inline-end: unset  !important;
+}
+.main-nowPlayingBar-left {
+min-width: 220px !important;
+}
+.main-nowPlayingBar-center {
+min-width: 250px !important;
+margin-top: 8px;
+}
+.main-nowPlayingBar-right {
+min-width: 280px !important;
+margin: 0px 4px;
+}
+.player-controls__buttons--new-icons {
+margin-bottom: 4px  !important;
+}
+
+/* Scrollbar Stuff */
+.os-scrollbar-handle {
+border-radius: 8px;
+width: 2px;
+left: 10px;
+}
+.Root__main-view .os-scrollbar-horizontal {
+display: none;
+}
+.Root__top-container {
+position: fixed;
+}
+::-webkit-scrollbar {
+width: 4px;
+border-radius: 8px;
+}
+
+/* Font Stuff */
+body, button, input, select, textarea, html,
+.main-type-alto, .TypeElement-bass-textBase-type, .TypeElement-alto-textBase-type, .TypeElement-canon-textBase-type,
+.TypeElement-balladBold-type, .TypeElement-balladBold-textBase-4px-type, .TypeElement-ballad-textBase-type, .TypeElement-balladBold-textBase-type, .TypeElement-canon-type,
+.TypeElement-mesto-textSubdued-type, .TypeElement-mesto-type, .TypeElement-ballad-textSubdued-type, .TypeElement-ballad-type, .TypeElement-mestoBold-type, .TypeElement-finale-textSubdued-type {
+font-family: 'Cascadia Code' !important;
+--fallback-fonts: 'Cascadia Code' !important;
+}
+.TypeElement-bass-textBase-type {
+font-weight: 700 !important;
+}
+.TypeElement-alto-textBase-type, .TypeElement-canon-textBase-type {
+font-weight: 600 !important;
+}
+.TypeElement-balladBold-type, .TypeElement-balladBold-textBase-4px-type, .TypeElement-ballad-textBase-type, .TypeElement-balladBold-textBase-type, .TypeElement-canon-type {
+font-weight: 500 !important;
+}
+.TypeElement-mesto-textSubdued-type, .TypeElement-mesto-type, .TypeElement-ballad-textSubdued-type, .TypeElement-ballad-type, .TypeElement-mestoBold-type, .TypeElement-finale-textSubdued-type {
+font-weight: 400 !important;
+}
