@@ -1,7 +1,4 @@
 # MoereauLibX
-WIP
-
-# !
 ONLY FOR SPOTIFY WITH LIBRARY X UI (Version 1.2.9 or later) and Spicetify (v2.17.2 or later)
 
 // I always block Spotify built-in updater so I usually skip some version, let me know if this theme somehow broke on newer version
